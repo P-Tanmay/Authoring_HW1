@@ -6,11 +6,15 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg"
 			],
 			imageDescription : [
 				"this is a butterfly",
-				"This is a duke"
+				"This is a duke",
+				"Love birds.",
+				"Hello, Sun."
 				]
 		},
 
@@ -21,11 +25,15 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg"
 			],
 			imageDescription : [
 				"woo, fun time. On the beach",
-				"Right  now, I am sleeping. Bye Bye"
+				"Right  now, I am sleeping. Bye Bye",
+				"Summer time is the relax time",
+				"Now, play  time"
 			]
 		},
 
@@ -36,11 +44,15 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg"
 			],
 			imageDescription : [
 				"Autumn time now.",
-				"nice flowers"
+				"nice flowers.",
+				"yummy juice",
+				"autumn time is the family time"
 			]
 		},
 
@@ -51,11 +63,15 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg"
 			],
 			imageDescription : [
 				"Winter time now.",
-				"Hello, I am snow-man."
+				"Hello, I am snow-man.",
+				"Lets get winter ride.",
+				"Winter time is the snowflake time."
 			]
 		}
 	};
