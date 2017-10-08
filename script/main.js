@@ -79,7 +79,7 @@
 
 	//document.querySelector('#spring').click();
   function poplightbox(currentIndex, currentobject) {
-    debugger;
+    //debugger;
 
     // quick scroll fix to make light box cover everything
     window.scrollTo(0, 0);
@@ -101,11 +101,13 @@
 
 
   function closelightbox() {
-    debugger;
-    //reset and close
+    //debugger;
+    //reset and close-botton
+	  let lightbox = document.querySelector('.lightbox');
+	  lightbox.style.display="none";
+	  document.style.display="block";
   }
 
 	// more programme type way to do the same thing
 	changeElements.call(document.querySelector('#spring'));
-
 })();

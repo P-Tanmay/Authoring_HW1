@@ -10,9 +10,8 @@ var dynamicContent = {
 			],
 			imageDescription : [
 				"this is a butterfly",
-				"lets see"
-			]
-
+				"This is a duke"
+				]
 		},
 
 		summer : {
@@ -23,6 +22,10 @@ var dynamicContent = {
 			images : [
 				"summer_1.jpg",
 				"summer_2.jpg"
+			],
+			imageDescription : [
+				"woo, fun time. On the beach",
+				"Right  now, I am sleeping. Bye Bye"
 			]
 		},
 
@@ -34,6 +37,10 @@ var dynamicContent = {
 			images : [
 				"autumn_1.jpg",
 				"autumn_2.jpg"
+			],
+			imageDescription : [
+				"Autumn time now.",
+				"nice flowers"
 			]
 		},
 
@@ -45,6 +52,10 @@ var dynamicContent = {
 			images : [
 				"winter_1.jpg",
 				"winter_2.jpg"
+			],
+			imageDescription : [
+				"Winter time now.",
+				"Hello, I am snow-man."
 			]
 		}
 	};
